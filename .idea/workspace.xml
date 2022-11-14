@@ -1,11 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="106ede1c-cd9a-437e-b0cd-1634c6c463bd" name="Default Changelist" comment="" />
+    <list default="true" id="106ede1c-cd9a-437e-b0cd-1634c6c463bd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/common/form/fields.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/common/form/form.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/common/form/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/common/form/selectField.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/common/form/selectField.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/common/form/textField.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/common/form/textField.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/exercises/childrenExercise.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/exercises/childrenExercise.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/page/editUserPage/editUserPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/page/editUserPage/editUserPage.jsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2HFvhZhBJqN8NdPTkSYWs4ztjTi" />
   <component name="ProjectViewState">
@@ -14,6 +46,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -26,6 +59,11 @@
     <property name="prettierjs.PrettierConfiguration.Package" value="G:\Development\start-hooks\node_modules\prettier" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Development\start-hooks\src\app\components\common\form" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
@@ -60,12 +98,27 @@
       <workItem from="1668094611371" duration="1728000" />
       <workItem from="1668178000240" duration="12770000" />
       <workItem from="1668222975545" duration="1441000" />
-      <workItem from="1668226868478" duration="662000" />
+      <workItem from="1668226868478" duration="18858000" />
+      <workItem from="1668281963530" duration="1991000" />
+      <workItem from="1668360337480" duration="9094000" />
+      <workItem from="1668402766508" duration="11608000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="807" y="388" width="799" height="652" key="#ESLint" timestamp="1667898401929">
@@ -76,22 +129,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="687" y="215" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1668013952508" />
-    <state width="1893" height="101" key="GridCell.Tab.0.bottom" timestamp="1668192228743">
+    <state width="1893" height="182" key="GridCell.Tab.0.bottom" timestamp="1668443454759">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1893" height="101" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1668192228743" />
-    <state width="1893" height="101" key="GridCell.Tab.0.center" timestamp="1668192228743">
+    <state width="1893" height="182" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1668443454759" />
+    <state width="1893" height="182" key="GridCell.Tab.0.center" timestamp="1668443454758">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1893" height="101" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1668192228743" />
-    <state width="1893" height="101" key="GridCell.Tab.0.left" timestamp="1668192228743">
+    <state width="1893" height="182" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1668443454758" />
+    <state width="1893" height="182" key="GridCell.Tab.0.left" timestamp="1668443454758">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1893" height="101" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1668192228743" />
-    <state width="1893" height="101" key="GridCell.Tab.0.right" timestamp="1668192228743">
+    <state width="1893" height="182" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1668443454758" />
+    <state width="1893" height="182" key="GridCell.Tab.0.right" timestamp="1668443454759">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1893" height="101" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1668192228743" />
+    <state width="1893" height="182" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1668443454759" />
     <state x="351" y="78" key="SettingsEditor" timestamp="1668194073953">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

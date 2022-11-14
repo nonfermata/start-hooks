@@ -8,7 +8,6 @@ import PropTypes from "prop-types";
 const FormComponent = ({ children }) => {
     const [data, setData] = useState({});
     useEffect(() => {
-        console.log(data);
     }, [data]);
     const handleChange = (target) => {
         setData((prevState) => ({

@@ -4,9 +4,16 @@ import PropTypes from "prop-types";
 
 const List = ({ children }) => {
     return (
-        <ol>
-            {React.Children.map(children, (child) => (<li>{child}</li>))}
-        </ol>
+        <>
+            {React.Children.map(children, (child, index) => {
+                return (
+                    <>
+                        <div style={{ float: "left" }}>{index + 1}.&nbsp;</div>{" "}
+                        {child}
+                    </>
+                );
+            })}
+        </>
     );
 };
 List.propTypes = {
